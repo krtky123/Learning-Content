@@ -54,7 +54,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Sai Dhanush](https://github.com/dhanush1708)
 - [Krishna Kaushik Kolluri](https://github.com/krishna-kaushik)
 - [SWAYAM BUKHARIA](https://github.com/swayambukharia)
-
+- [Kartikay Goel(https://github.com/krtky123)
 
 
 # Phase 1 - 2018
